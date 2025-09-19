@@ -21,7 +21,7 @@ $${\omega}_3 = H \space dx \wedge dy \wedge dz$$
 
 对外微分求微分：
 $$d{\omega} = \frac{\partial f}{\partial x}dx \space + \frac{\partial f}{\partial y}dy \space +\frac{\partial f}{\partial z}dz$$
-$$ d{\omega}_1 = 
+$$d{\omega}_1 = 
 \left | \begin{array}
 ddy \wedge dz & dz \wedge dx & dx \wedge dy \\
 \frac{\partial}{\partial x} & \frac{\partial}{\partial y} & \frac{\partial}{\partial z}  \\
