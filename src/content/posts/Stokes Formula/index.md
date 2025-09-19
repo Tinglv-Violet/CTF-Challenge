@@ -4,7 +4,7 @@ published: 2025-09-19
 description: 这是一篇从外微分视角统一数学分析遇到的Green、Gauss、Stokes等公式的笔记。
 tags: [Math, Analysis]
 image: ./cover-image.jpg
-category: Front-end
+category: Analysis
 draft: false
 ---
 

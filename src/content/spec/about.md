@@ -1,7 +1,7 @@
 # About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+This is the blog for [Tinglv](https://github.com/Tinglv-Violet).
 
-::github{repo="saicaca/fuwari"}
+::github{repo="Tinglv-Violet/CTF-Challenge"}
 
 > ### Sources of images used in this site
 > - [Unsplash](https://unsplash.com/)
