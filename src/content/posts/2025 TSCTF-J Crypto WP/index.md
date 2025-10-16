@@ -719,6 +719,8 @@ def main():
 
 if __name__ == "__main__":
     main()
+    
+#TSCTF-J{C0ngratu1@tion_U_bec0me_stReam_cipher_M@373r!}
 ```
 
 
@@ -1472,9 +1474,9 @@ $$
 $$
 \sum _{i=0}^{k}{k \choose i}\lambda ^{k-i}(x-\lambda)^{i}=x^k=\lambda^k+k\lambda^{k-1}(x-\lambda)+\cdots+k\lambda(x-\lambda)^{k-1}+(x-\lambda)^k
 $$
-接着带入$J_i$，且$J_0^m=0$，设$k$大于$m$则
+接着带入$J_i$，且移位算子$J_0^m=0$，设$k$大于$m$则
 $$
-J_i^k=\lambda I^k+k \lambda I^{k-1}J_0+\cdots+k\lambda IJ_0^{k-1}+J_0^k=\begin{pmatrix}\lambda^k&k\lambda^{k-1}&\cdots&{k \choose m-1}\lambda^{k-m+1}\\&\lambda^n&\ddots&\vdots\\&&\lambda^n&k\lambda^{n-1}\\&&&\lambda^n\end{pmatrix}_{m\times m}
+J_i^k=\lambda I^k+k \lambda I^{k-1}J_0+\cdots+k\lambda IJ_0^{k-1}+J_0^k=\begin{pmatrix}\lambda^k&k\lambda^{k-1}&\cdots&{k \choose m-1}\lambda^{k-m+1}\\&\lambda^k&\ddots&\vdots\\&&\lambda^k&k\lambda^{k-1}\\&&&\lambda^k\end{pmatrix}_{m\times m}
 $$
 
 
